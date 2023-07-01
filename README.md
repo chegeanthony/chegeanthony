@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [here](https://docs.google.com/document/d/1h4ycIZ2_rVWdR4ZV443thAkEnsuwIGP-/edit?usp=sharing&ouid=116025691461816897164&rtpof=true&sd=true)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="YOUR DEV.TO LINK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="YOUR DEV.TO USERNAME" height="30" width="40" /></a>
