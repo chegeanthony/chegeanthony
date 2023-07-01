@@ -40,7 +40,6 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
@@ -54,5 +53,21 @@ Here are some ideas to get you started:
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://ethereum.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="ethereum" width="40" height="40"/> </a>
+<a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kerasio/kerasio-icon.svg" alt="keras" width="40" height="40"/> </a> 
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
+<a href="https://www.jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/> </a> 
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> </a> 
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/seaborn.svg" alt="seaborn" width="40" height="40"/> </a> 
+<a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/soliditylang/soliditylang-icon.svg" alt="solidity" width="40" height="40"/> </a> 
+<a href="https://web3js.readthedocs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ethereum/web3js-icon.svg" alt="web3.js" width="40" height="40"/> </a> 
+<a href="https://www.trufflesuite.com/truffle" target="_blank" rel="noreferrer"> <img src="https://www.trufflesuite.com/img/truffle-logomark.svg" alt="truffle" width="40" height="40"/> </a> 
+<a href="https://www.trufflesuite.com/ganache" target="_blank" rel="noreferrer"> <img src="https://www.trufflesuite.com/img/ganache-logomark.svg" alt="ganache" width="40" height="40"/> </a> 
+<a href="https://metamask.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/metamaskio/metamaskio-icon.svg" alt="metamask" width="40" height="40"/> </a> 
+<a href="https://openzeppelin.com/" target="_blank" rel="noreferrer"> <img src="https://openzeppelin.com/favicon.png" alt="openzeppelin" width="40" height="40"/> </a> 
+<a href="https://ipfs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ipfs/ipfs-icon.svg" alt="ipfs" width="40" height="40"/> </a> 
+<a href="https://www.hyperledger.org/use/fabric" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hyperledger/hyperledger-icon.svg" alt="hyperledger fabric" width="40" height="40"/> </a> 
+<a href="https://substrate.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/parityio/parityio-icon.svg" alt="substrate" width="40" height="40"/> </a> 
+<a href="https://remix.ethereum.org/" target="_blank" rel="noreferrer"> <img src="https://remix.ethereum.org/assets/img/remixLogo.webp" alt="remix" width="40" height="40"/> </a> 
 </p>
+
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chegeanthony&show_icons=true&locale=en" alt="chegeanthony" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chegeanthony&" alt="chegeanthony" /></p>
