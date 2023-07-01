@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - 📄 Know about my experiences 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[YOUR DEV.TO LINK](https://dev.to/chegeanthony)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="YOUR DEV.TO USERNAME" height="30" width="40" /></a>
+<a href="(https://dev.to/chegeanthony)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tonyc" height="30" width="40" /></a>
 <a href="https://twitter.com/YOUR_TWITTER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="YOUR_TWITTER_USERNAME" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="YOUR_LINKEDIN_USERNAME" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/YOUR_STACKOVERFLOW" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="YOUR_STACKOVERFLOW_USERNAME" height="30" width="40" /></a>
