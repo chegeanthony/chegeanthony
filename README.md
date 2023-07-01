@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **anthonychege599@gmail.com**
 
-- 📄 Know about my experiences 
+- 📄 Know about my experiences [here] https://docs.google.com/document/d/1duokyMM9s32wquQ5x7977N4sAB3ViyV3bwC7782Dgz8/edit?usp=sharing
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/tonyc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tonyc" height="30" width="40" /></a>
