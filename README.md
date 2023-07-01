@@ -52,14 +52,12 @@ Here are some ideas to get you started:
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://ethereum.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="ethereum" width="40" height="40"/> </a>
-<a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kerasio/kerasio-icon.svg" alt="keras" width="40" height="40"/> </a> 
+<a href="https://ethereum.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="ethereum" width="40" height="40"/> </a> 
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
 <a href="https://www.jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/> </a> 
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> </a> 
 <a href="https://www.trufflesuite.com/truffle" target="_blank" rel="noreferrer"> <img src="https://www.trufflesuite.com/img/truffle-logomark.svg" alt="truffle" width="40" height="40"/> </a> 
 <a href="https://www.trufflesuite.com/ganache" target="_blank" rel="noreferrer"> <img src="https://www.trufflesuite.com/img/ganache-logomark.svg" alt="ganache" width="40" height="40"/> </a> 
-<a href="https://ipfs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ipfs/ipfs-icon.svg" alt="ipfs" width="40" height="40"/> </a> 
 <a href="https://www.hyperledger.org/use/fabric" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hyperledger/hyperledger-icon.svg" alt="hyperledger fabric" width="40" height="40"/> </a> 
 <a href="https://remix.ethereum.org/" target="_blank" rel="noreferrer"> <img src="https://remix.ethereum.org/assets/img/remixLogo.webp" alt="remix" width="40" height="40"/> </a> 
 </p>
