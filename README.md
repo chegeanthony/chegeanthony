@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 
 [![Tony's's GitHub stats](https://github-readme-stats.vercel.app/api?username=chegeanthony)](https://github.com/chegeanthony/github-readme-stats)
 <h3 align="left">Connect with me:</h3>
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/chegeanthony/github-readme-stats)
 <p align="left">
 <a href="YOUR DEV.TO LINK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="YOUR DEV.TO USERNAME" height="30" width="40" /></a>
 <a href="https://twitter.com/YOUR_TWITTER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="YOUR_TWITTER_USERNAME" height="30" width="40" /></a>
