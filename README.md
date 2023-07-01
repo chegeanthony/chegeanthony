@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chegeanthony&label=Profile%20views&color=0e75b6&style=flat" alt="chegeanthony" /> </p>
 
 <p align="left"> <a href="https://twitter.com/Tonycodh" target="blank"><img src="https://img.shields.io/twitter/follow/Tonycodh?logo=twitter&style=for-the-badge" alt="Tonycodh" /></a> </p>
-```md
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
-```
+
 - 🌱 I’m constantly learning.
 
 - 👨‍💻 Some of my notable projects are available at 
@@ -35,7 +33,7 @@ Here are some ideas to get you started:
 - 📄 Know about my experiences 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="YOUR DEV.TO LINK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="YOUR DEV.TO USERNAME" height="30" width="40" /></a>
+<a href="[YOUR DEV.TO LINK](https://dev.to/chegeanthony)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="YOUR DEV.TO USERNAME" height="30" width="40" /></a>
 <a href="https://twitter.com/YOUR_TWITTER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="YOUR_TWITTER_USERNAME" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="YOUR_LINKEDIN_USERNAME" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/YOUR_STACKOVERFLOW" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="YOUR_STACKOVERFLOW_USERNAME" height="30" width="40" /></a>
