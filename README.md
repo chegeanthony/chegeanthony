@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <a href="https://dev.to/tonyc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tonyc" height="30" width="40" /></a>
 <a href="https://twitter.com/Tonycodh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Tonycodh" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/anthony-chege-383893227/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthony-chege-383893227" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/YOUR_STACKOVERFLOW" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="YOUR_STACKOVERFLOW_USERNAME" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18079486/tony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tony" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
