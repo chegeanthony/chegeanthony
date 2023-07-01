@@ -31,9 +31,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me **anthonychege599@gmail.com**
 
 - 📄 Know about my experiences 
-
-[![Tony's's GitHub stats](https://github-readme-stats.vercel.app/api?username=chegeanthony)](https://github.com/chegeanthony/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chegeanthony&hide_progress=true)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="YOUR DEV.TO LINK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="YOUR DEV.TO USERNAME" height="30" width="40" /></a>
