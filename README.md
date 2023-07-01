@@ -45,5 +45,4 @@
 <a href="https://www.hyperledger.org/use/fabric" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hyperledger/hyperledger-icon.svg" alt="hyperledger fabric" width="40" height="40"/> </a> 
 <a href="https://remix.ethereum.org/" target="_blank" rel="noreferrer"> <img src="https://remix.ethereum.org/assets/img/remixLogo.webp" alt="remix" width="40" height="40"/> </a> 
 </p>
-
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chegeanthony&show_icons=true&locale=en" alt="chegeanthony" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chegeanthony&" alt="chegeanthony" /></p>
