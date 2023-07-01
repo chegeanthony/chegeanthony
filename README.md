@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chegeanthony&label=Profile%20views&color=0e75b6&style=flat" alt="chegeanthony" /> </p>
 
 <p align="left"> <a href="https://twitter.com/Tonycodh" target="blank"><img src="https://img.shields.io/twitter/follow/Tonycodh?logo=twitter&style=for-the-badge" alt="Tonycodh" /></a> </p>
-
+```md
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+```
 - 🌱 I’m constantly learning.
 
 - 👨‍💻 Some of my notable projects are available at 
@@ -54,4 +56,3 @@ Here are some ideas to get you started:
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://ethereum.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon
 </p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chegeanthony&show_icons=true&locale=en" alt="chegeanthony" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chegeanthony&" alt="chegeanthony" /></p>
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev) 
