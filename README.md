@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 
 - 📝 I regularly write articles on: [ondiek-elijah.me/blog](https://www.ondiek-elijah.me/blog)
 
-- 💬 Ask me about **Machine Learning**, **Smart Contracts**, **Python**, **Solidity**, and **technical writing**
+- 💬 Ask me about **Machine Learning**, **MLOPs**, **Artificial Intelligence** **Smart Contracts**, **NFTs**, **Python**, **Solidity**, and **technical writing**
 
-- 📫 How to reach me **eochieng9448@gmail.com**
+- 📫 How to reach me **anthonychege599@gmail.com**
 
 - 📄 Know about my experiences [here](https://docs.google.com/document/d/1h4ycIZ2_rVWdR4ZV443thAkEnsuwIGP-/edit?usp=sharing&ouid=116025691461816897164&rtpof=true&sd=true)
 
