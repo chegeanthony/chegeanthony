@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/Tonycodh" target="blank"><img src="https://img.shields.io/twitter/follow/Tonycodh?logo=twitter&style=for-the-badge" alt="Tonycodh" /></a> </p>
 
-- 🌱 I’m constantly learning.
+- 🌱 I’m constantly learning Machine Learning and Blockchanin.
 
 - 👨‍💻 Some of my notable projects are available at  [here](https://anthony-chege.vercel.app/projects)
 - 📝 I regularly write articles on: [here](https://anthony-chege.vercel.app/blog)
