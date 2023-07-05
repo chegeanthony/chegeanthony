@@ -7,8 +7,8 @@
 
 - 🌱 I’m constantly learning.
 
-- 👨‍💻 Some of my notable projects are available at 
-- 📝 I regularly write articles on: 
+- 👨‍💻 Some of my notable projects are available at  [here](https://anthony-chege.vercel.app/projects)
+- 📝 I regularly write articles on: [here](https://anthony-chege.vercel.app/blog)
 
 - 💬 Ask me about **Machine Learning**, **MLOPs**, **Artificial Intelligence** **Smart Contracts**, **NFTs**, **Python**, **Solidity**, and **technical writing**
 
