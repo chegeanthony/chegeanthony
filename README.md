@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anthony Chege</h1>
-<h3 align="center">A Machine Learning Engineer & Smart Contract Developer, Technical Writer, and Community Advocate</h3>
+<h1 align="center">Hi 👋, I'm Anthony </h1>
+<h3 align="center">A system and Embedded eng, Technical Writer, and Community Advocate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chegeanthony&label=Profile%20views&color=0e75b6&style=flat" alt="chegeanthony" /> </p>
 
